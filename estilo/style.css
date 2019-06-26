@@ -47,7 +47,7 @@
 
 .textAbout h2{
     line-height: 30px;
-    margin-block: 20px;
+    margin-top: 30px;
     background-color: rgba(81, 5, 116, 0.514);
 
 }
@@ -69,7 +69,6 @@
     border-color: rgb(255, 255, 255);
     border: 1px solid;
     box-shadow: 0 4px 8px 0 rgba(163, 94, 37, 0.781), 0 6px 20px 0 rgba(36, 5, 119, 0.438);
-    
 }
 
 .text span{
@@ -100,12 +99,18 @@
 .features p{
     text-align: center;
     padding: 10px 10px 10px 10px;
+    
 }
 
-.features h1{
-    text-decoration: underline black
-
+.features a{
+    text-decoration: none;
+    color: black;
 }
+
+.features a:hover{
+    color:rgb(238, 180, 94);
+}
+
 
 .icons{
     margin-left: 80%;
