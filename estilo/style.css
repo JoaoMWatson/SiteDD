@@ -19,7 +19,7 @@
 
 .img img {
     width: 80%;
-    margin-top: 10%;
+    margin-top: 15%;
     margin-left: 10%;
     border-radius: 15px;
 }
@@ -185,11 +185,12 @@
 }
 
 #container {
+    height: auto;
     width: 70%;
     margin-left: 15%;
     padding-bottom: 50%;
     background-color: rgb(23, 23, 66);;
-    box-shadow: 0 4px 8px 0 rgba(23, 16, 92, 0.404), 0 6px 20px 0 rgba(36, 5, 119, 0.438);
+    box-shadow: 0 4px 8px 0 rgba(27, 19, 90, 0.404), 0 6px 20px 0 rgba(36, 5, 119, 0.438);
 }
 
 #fundo {
